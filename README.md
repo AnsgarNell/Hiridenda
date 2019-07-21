@@ -1,4 +1,4 @@
-= Hiridenda
+## Hiridenda
 
 This paper analyzes the way to keep an ontology up-to-date in real time in a food products storage environment, relative to the relational database where the information lives.
 First an introduction to the Hiridenda-2020 project, which is being developed by I3B, the Ibermatica Institute for Innovation, belonging to Ibermática S.A., is made in order to put the present work in its context. Moreover, the goals, used methodology and the structure of this paper will be explained
